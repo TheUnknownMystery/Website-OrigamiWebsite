@@ -1,0 +1,82 @@
+
+
+p {
+
+    color: rgba(255, 0, 0, 0.849)
+}
+
+h1 {
+
+    border: solid;
+    border-color: white
+} 
+
+h3 {
+
+    color: rgb(253, 0, 0)
+}
+
+h3 {
+
+    border: solid;
+    border-color: white
+}
+
+h1{
+
+
+color: green
+
+
+}
+
+*{
+
+font-family: 'Nerko One', cursive;
+padding: 15px;
+font-weight: 10000;
+
+}  
+
+.head{
+
+display: flex;
+justify-content: flex-start;
+
+}
+
+.grid{
+
+color: white;
+
+}
+
+.step1{
+
+color: red;
+border-color: white
+}
+
+.step2{
+
+border-color: white;
+
+}
+
+body{
+
+background-image: url("download.jpg") ;
+}
+
+p{
+  
+ display: flex;
+ justify-content: space-around;
+ flex-direction: row;
+ width: 300px;
+ height:300px;
+ padding: 0px;
+ transform: rotate(-16deg);
+}
+
+
